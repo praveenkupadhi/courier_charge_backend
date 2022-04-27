@@ -6,5 +6,6 @@ In command-line/terminal, type
 
 1. npm i - to download all packages.
 2. npm run start - to start the server.
+3. npm -g nodemon - if the project is not starting
 
 backend-url: http://localhost:3001/
